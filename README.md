@@ -21,7 +21,7 @@ Sou apaixonado por desenvolvimento de sistemas e minha jornada na programação 
           
 ### LEARNING
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,c#,react,)](https://skillicons.dev)                    
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,cs,react,)](https://skillicons.dev)                    
     
           
  
