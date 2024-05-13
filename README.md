@@ -19,7 +19,9 @@ Sou apaixonado por desenvolvimento de sistemas e minha jornada na programação 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />  <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
           
-                    
+### LEARNING
+
+[![My Skills](https://skillicons.dev/icons?i=java,javascript,c#,react,)](https://skillicons.dev)                    
     
           
  
