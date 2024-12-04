@@ -4,7 +4,7 @@ Sou apaixonado por desenvolvimento de sistemas e minha jornada na programação 
 
 ✨ Aqui está um pouco do que tenho explorado:
 
-💻 Programação: Minha paixão e conhecimento avançado em várias linguagens, incluindo Python, C, C++, SQL e Qt Creator.
+💻 Programação: Minha paixão e conhecimento avançado em várias linguagens, incluindo Java, SQL e Spring
 
 📊 Excel: Ferramenta essencial para manipulação e análise de dados de forma eficiente.
 
