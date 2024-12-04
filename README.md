@@ -15,7 +15,7 @@ Sou apaixonado por desenvolvimento de sistemas e minha jornada na programação 
 💫Vamos construir o futuro juntos, utilizando nossa paixão pela tecnologia como nossa bússola! 🚀
 
 ## Habilidades 
- <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" /> <img width= "40" height= "40" 
+ <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img width= "40" height= "40" 
   src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
 <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />  <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
           
