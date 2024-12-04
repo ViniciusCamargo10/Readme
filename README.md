@@ -16,12 +16,11 @@ Sou apaixonado por desenvolvimento de sistemas e minha jornada na programação 
 
 ## Habilidades 
  <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" /> <img width= "40" height= "40" 
-  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" /> <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" />
-<img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original-wordmark.svg" />  <img width= "40" height= "40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/qt/qt-original.svg" />
+  src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/azuresqldatabase/azuresqldatabase-original.svg" /> 
           
 ### LEARNING
 
-[![My Skills](https://skillicons.dev/icons?i=java,javascript,cs,react,)](https://skillicons.dev)                    
+[![My Skills](https://skillicons.dev/icons?i=html,javascript,css,)](https://skillicons.dev)                    
     
           
  
